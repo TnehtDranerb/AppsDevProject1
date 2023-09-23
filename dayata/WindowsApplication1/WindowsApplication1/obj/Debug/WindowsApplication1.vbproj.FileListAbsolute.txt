@@ -1,0 +1,11 @@
+D:\dayata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\dayata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\dayata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\dayata\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\dayata\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
